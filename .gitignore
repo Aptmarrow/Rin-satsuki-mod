@@ -1,0 +1,59 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# Environment files
+.env
+
+# Logs and databases
+*.log
+.pytest_cache/
+.cache/
+
+# Temporary and backup files
+*~
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# GitHub workflow / CI
+.github/workflows/
+
+# System-specific
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Binaries and generated executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Thumbs and crash logs
+crash_log.txt
+log.txt
+omake.txt
+th06nc/
+th06nc_sprites/
